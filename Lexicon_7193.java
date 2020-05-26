@@ -1,6 +1,6 @@
 package DSA;
 
-// AKUL ANANT PRABHUDESAI cs610 7193 prp
+// AKUL ANANT PRABHUDESAI CS610 Hashtable implementation using quadratic probing
 
 import java.io.File;
 import java.io.FileWriter;
